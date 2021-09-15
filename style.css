@@ -1162,6 +1162,9 @@ input[type=range]:focus::-ms-fill-upper {
     -ms-grid-column-span: 1;
     grid-column: 1/2;
   }
+  .input__wrapper{
+    grid-row: 3/4;
+  }
   .tzSelect .dropDown {
     z-index: 6;
   }
